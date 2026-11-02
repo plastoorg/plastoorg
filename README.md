@@ -2,7 +2,7 @@
 
 **Gemini, ChatGPT, Claude и другие сервисы — настройка доступа в одном приложении для Windows.**
 
-PLASTO помогает настроить доступ к нейросетям Gemini, ChatGPT и Claude, DPI-обход для YouTube и Discord, подключить Telegram-прокси, выбрать DNS и проверить стабильность интернета. Работает на Windows 10 и 11 x64.
+PLASTO помогает настроить доступ к Gemini, ChatGPT, Claude, YouTube и Discord. В приложении есть подбор стратегий, Telegram-прокси и настройки прокси для ИИ, выбор DNS, проверка скорости и задержки, мониторинг стабильности и системная диагностика. Работает на Windows 10 и 11 x64.
 
 [Скачать PLASTO](https://github.com/plastoorg/PLASTO/releases/latest) · [Сайт](https://plastoorg.github.io/PLASTO/) · [Исходный код](https://github.com/plastoorg/PLASTO) · [Сообщить о проблеме](https://github.com/plastoorg/PLASTO/issues)
 
