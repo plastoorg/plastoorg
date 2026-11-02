@@ -1,8 +1,8 @@
 # PLASTO
 
-**Доступ к сервисам и диагностика сети — в одном приложении для Windows.**
+**Gemini, ChatGPT, Claude и другие сервисы — настройка доступа в одном приложении для Windows.**
 
-PLASTO помогает настроить DPI-обход для YouTube и Discord, подключить Telegram-прокси, выбрать DNS и проверить стабильность интернета. Работает на Windows 10 и 11 x64.
+PLASTO помогает настроить доступ к нейросетям Gemini, ChatGPT и Claude, DPI-обход для YouTube и Discord, подключить Telegram-прокси, выбрать DNS и проверить стабильность интернета. Работает на Windows 10 и 11 x64.
 
 [Скачать PLASTO](https://github.com/plastoorg/PLASTO/releases/latest) · [Сайт](https://plastoorg.github.io/PLASTO/) · [Исходный код](https://github.com/plastoorg/PLASTO) · [Сообщить о проблеме](https://github.com/plastoorg/PLASTO/issues)
 
